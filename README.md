@@ -45,7 +45,7 @@ $ ./a.out
     ```
  - Remove a node
     ```
-    removeNode(list, findNide(list, 1));
+    removeNode(list, findNode(list, 1));
     ``` 
 ### Other
  - Display the linked list
